@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.kraken.support.colorpicker;
+package co.aospa.support.colorpicker;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

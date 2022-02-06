@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.kraken.support.preferences;
+package co.aospa.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;

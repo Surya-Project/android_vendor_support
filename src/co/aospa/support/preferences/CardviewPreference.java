@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.kraken.support.preferences;
+package co.aospa.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -25,7 +25,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.kraken.support.R;
+import co.aospa.support.R;
 
 public class CardviewPreference extends Preference {
 

@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.kraken.support.preferences;
+package co.aospa.support.preferences;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -33,7 +33,7 @@ import android.widget.TextView;
 
 import androidx.preference.*;
 
-import com.kraken.support.R;
+import co.aospa.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();

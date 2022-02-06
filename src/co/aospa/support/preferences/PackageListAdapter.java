@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.kraken.support.preferences;
+package co.aospa.support.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.kraken.support.R;
+import co.aospa.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;
